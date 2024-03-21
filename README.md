@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá, eu sou o João 👋
 
 - 🔭 Working on Python RPA's
 - 🌱 Learning React Native
