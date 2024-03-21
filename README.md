@@ -2,7 +2,7 @@
 
 - 🔭 Working on Python RPA's
 - 🌱 Learning React Native
-- 🧑🏻‍💻 Working at CNH Industrial
+- 🧑🏻‍💻 Working at <a href="https://www.cnh.com/">CNH Industrial</a>
 
 
 <div style="display: inline_block"><br>
