@@ -1,7 +1,7 @@
 ### Olá, eu sou o João 👋
 
 
-- 🧑🏻‍💻 Trabalho na <a href="https://www.cnh.com/">CNH Industrial como Especialista de Operações de Infraestrutura</a>
+- 🧑🏻‍💻 Trabalho na <a href="https://www.cnh.com/">CNH Industrial</a> como Especialista de Operações de Infraestrutura
 - 💻 Desenvolvendo Modelos de Machine Learning e RPA's
 - 📚 Estudando Scikit-Learn, Keras and TensorFlow
 
