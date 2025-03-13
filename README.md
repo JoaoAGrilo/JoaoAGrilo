@@ -1,9 +1,9 @@
 ### Olá, eu sou o João 👋
 
 
-- 🧑🏻‍💻 Working at <a href="https://www.cnh.com/">CNH Industrial</a>
-- 💻 Developing Python RPA's
-- 🌱 Learning React Native
+- 🧑🏻‍💻 Trabalho na <a href="https://www.cnh.com/">CNH Industrial como Especialista de Operações de Infraestrutura</a>
+- 💻 Desenvolvendo Modelos de Machine Learning e RPA's
+- 📚 Estudando Scikit-Learn, Keras and TensorFlow
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Joao-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
